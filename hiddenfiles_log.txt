@@ -1,0 +1,8 @@
+.gitattributes -> not found
+.gitignore -> not found
+hiddenfilefinder.sln -> not found
+hiddenfilefinder.vcxproj -> not found
+hiddenfilefinder.vcxproj.filters -> not found
+hiddenfilefinder.vcxproj.user -> not found
+lop.png -> possible .rar | 
+README.md -> not found
